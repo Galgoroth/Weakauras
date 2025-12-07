@@ -7,5 +7,6 @@ Current DoTs supported: Haunt, Shadow Embrace, Immolate, Unstable Affliction, Co
 
 DoTs are ordered from shortest duration to longest duration, left to right, respectively. Channeled spells such as Drain Life/Mana/Soul will show on the far right during active channeling.
 
-Enjoy!
+Please reach out with ideas for improvements or issues that need fixing. Above all else, I hope this helps you!
+
 -Galg
