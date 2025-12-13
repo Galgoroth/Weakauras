@@ -1,5 +1,7 @@
 Warlock Visual Dots Project by Galgoroth
 
+To download, copy the text string from "Warlock DoT Timers by Galg". Import into Weak Auras.
+
 This collection of dynamic group weak auras will show a warlock all of the DoTs they currently have applied to a selected target. It will create a vertical status bar for each applied DoT and the color will change to indicate remaining
 duration. (Green > Yellow > Orange > Red). The Icons that show below each bar, display the spell icon. The icons will display spell information by hovering your mouse curser over them. 
 
